@@ -2,7 +2,7 @@ import streamlit as st
 
 # Streamlit 페이지 설정
 st.set_page_config(
-    page_title="교사 번아웃 체크",
+    page_title="교사 번아웃 체크!",
     page_icon="🍎",
     layout="centered",
     initial_sidebar_state="auto"
